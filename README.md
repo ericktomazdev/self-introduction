@@ -15,7 +15,7 @@ Starting from this point, I point out what are my main skills in programming, <s
 
 <h3>2. Flutter Widgets</h3>
 <p> 
-   Creation and implementation of complex-nested <strong><i>Stateless</i></strong> & <strong><i>Stateful</i></strong> widgets.
+   Creation and implementation of complex <strong><i>Stateless</i></strong> & <strong><i>Stateful</i></strong> widgets.
    Key understanding of layout and use of self-adjusting size components utilizing <strong><i>Media Queries</i></strong>.
    Handling large datasets with <strong><i>list builders</i></strong> and working with <strong><i>buttons</i></strong> and 
    <strong><i>text fields</i></strong>, as well as presenting <strong><i>bottom sheets</i></strong> and <strong><i>dialogs</i></strong>,
@@ -27,29 +27,29 @@ Starting from this point, I point out what are my main skills in programming, <s
    Understanding of MV* architecture, such as <strong><i>Model View Controller</i></strong>. Making use of <strong><i>InheritedWidget</i></strong> and advanced state management with streams: 
     <ul>
       <li>Stream controllers and sinks</li>
-      <li>Injecting data transformers into streams</li>
-      <li>Subscribing to streams events</li>
+      <li>Inject data transformers into streams</li>
+      <li>Subscrib to streams events</li>
       <li>Multiple streams subscriptions</li>
-      <li>Implementing StreamBuilder</li>
+      <li>Implementation of StreamBuilder</li>
     </ul>
     Implementation of <strong><i>BLoC pattern</i></strong>. 
 </p>
 
 <h3>4. Asynchronous programming</h3>
 <p>
-  Using multiple Futures at the same time and implementing <strong><i>Future Builder</i></strong> to manage Futures. Use of Futures to turn navigation routes into asynchronous     functions. Understanding of common patterns to solve issues in async programming. 
+  Use of multiple Futures at the same time and implementation of <strong><i>Future Builder</i></strong> to manage Futures. Use of Futures to turn navigation routes into asynchronous functions. Use of common patterns to solve issues in async programming. 
 </p>
 
 <h3>5. Data persisentece and Communication with the internet</h3>
 <p>
     Plain understand of <strong><i>POST, PUT</i></strong> and <strong><i>DELETE</i></strong>-ing data. 
-    Converting Dart models into JSON and handling JSON schemas that are incompatible with our models. Know how to <strong><i>serialize and deserialize</i></strong> JSON. Catching common JSON errors, and saving data with <strong><i>Shared Preferences</i></strong>. 
-    Accessing the filesystem through <strong><i>Path Provider</i></strong> and using secure encrypted storage to store data. 
+    Convert Dart models into JSON and handle JSON schemas that are incompatible with models. Know how to <strong><i>serialize and deserialize</i></strong> JSON. How to cactch common JSON errors, and save data with <strong><i>Shared Preferences</i></strong>. 
+    Use of <strong><i>Path Provider</i></strong> to access the filesystem and use of secure encrypted storage to store data. 
 </p>
 
 <h3>6. Flutter packages</h3> 
 <p>
-  Understanding of the following packages: 
+  Plain understanding of the following packages: 
   <ul>
     <li>http</li>
     <li>intl</li>
@@ -59,5 +59,5 @@ Starting from this point, I point out what are my main skills in programming, <s
     <li>google_fonts</li>
   </ul>
   
-  Creating and publish our own packages on pub.dev.
+  Create and publish packages on pub.dev.
 </p> 
